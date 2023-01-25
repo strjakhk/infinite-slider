@@ -30,7 +30,7 @@ El ANCHO total del slider se debe definir en el contenedor principal del slider 
 <div id="slider-content" class="slider-content center">
 ```
 
-El ALTO total del slider se debe definir en los elementos que tengan dentro del slider (en el ejemplo de abajo, se define una altura en la clase "set-height"):
+El ALTO total del slider se debe definir en los elementos que tengan dentro del slider, incluso los que no se muestran (en el ejemplo de abajo, se define una altura en la clase "set-height"):
 
 ```
 <style>
@@ -44,3 +44,5 @@ El ALTO total del slider se debe definir en los elementos que tengan dentro del 
 <div class="slider-item set-height">3</div>
 <div class="slider-item set-height">4</div>
 ```
+
+El resto de estilos que quieran aplicar sobre los elementos del slider, también deben aplicarse sobre los elementos no mostrados (el primero y el último en el archivo index, que están entre los comentarios "INVISIBLE")
