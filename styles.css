@@ -1,9 +1,9 @@
-.slider-content{
+.center{
     width: 80%;
     margin: auto;
 }
 
-.slider-item{
+.set-height{
     height: 100px;
     padding: 10px;
     border: #ccc 1px solid;
