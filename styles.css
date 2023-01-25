@@ -1,0 +1,10 @@
+.slider-content{
+    width: 80%;
+    margin: auto;
+}
+
+.slider-item{
+    height: 100px;
+    padding: 10px;
+    border: #ccc 1px solid;
+}
