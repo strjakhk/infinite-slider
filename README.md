@@ -1,5 +1,6 @@
 ## infinite-slider v2023.0.1
 
+autor
 ### Juan Pablo Strack
 
 ___________________
