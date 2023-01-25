@@ -45,4 +45,4 @@ El ALTO total del slider se debe definir en los elementos que tengan dentro del 
 <div class="slider-item set-height">4</div>
 ```
 
-El resto de estilos que quieran aplicar sobre los elementos del slider, también deben aplicarse sobre los elementos no mostrados (el primero y el último en el archivo index, que están entre los comentarios "<!-- INVISIBLE -->")
+El resto de estilos que quieran aplicar sobre los elementos del slider, también deben aplicarse sobre los elementos no mostrados (el primero y el último en el archivo index, que están entre los comentarios "INVISIBLE")
